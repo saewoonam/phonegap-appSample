@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "gov.nist.qittlab"
+        }
+    }
+}
